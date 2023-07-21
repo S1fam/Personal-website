@@ -1,0 +1,39 @@
+#nametag {
+    background-image: url(./images/image.jpg);
+    height: 400px;
+}
+#text-1 {
+    color: #A0F0FF;
+}
+#me {
+    height: 170px;
+    border-radius: 50%;
+}
+
+.card-img-top {
+    height: 75px;
+}
+
+#widthset {
+    width: 80%;
+    margin-left: 10%;
+}
+
+#heading {
+    margin-top: 100px;
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+.flexb {
+    display: flex;
+    flex-wrap: wrap;
+    width: 80%;
+    margin-left: 10%;
+    justify-content: center;
+}
+
+.icon {
+    height: 80px;
+    margin: 10px;
+}
